@@ -1,5 +1,7 @@
 # Nuyul Cok
 
+Gak Nuyul Gak Makan ;)
+
 **Silahkan Di Download Atau Pun di Clone**
 
 **Script Nuyul Di Kumpulkan Dari Berbagai Sumber**
